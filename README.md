@@ -1,7 +1,3 @@
-Here’s a ready-to-upload `README.md` file content for your repo. Save it as `README.md` in your project root.
-
----
-
 ````markdown
 # Finetuned Sentiment Analysis on AWS EKS 🚀
 
