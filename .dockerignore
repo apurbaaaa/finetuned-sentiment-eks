@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+.env/
+.cloudenv/
+*.egg-info/
+
+# Data / cache
+*.log
+*.tmp
+*.csv
+*.tsv
+*.parquet
+*.jsonl
+
+# Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Git
+.git
+.gitignore
+
+# OS
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
